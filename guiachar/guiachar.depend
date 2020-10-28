@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537970036 source:c:\users\tadeo\guiachar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
